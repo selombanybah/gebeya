@@ -1,2 +1,2 @@
 # gebeya
-gebeya git class
+gebeya git class test
